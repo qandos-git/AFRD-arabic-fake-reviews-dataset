@@ -1,4 +1,4 @@
-# AFRD-arabic-reviews-dataset
+# AFRD: Arabic Fake Reviews Detection dataset
 - [Description](#description)
 - [Citation](#citation)
 
