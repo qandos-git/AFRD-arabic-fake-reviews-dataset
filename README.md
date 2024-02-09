@@ -15,6 +15,8 @@ Arabic Fake Reviews Detection (AFRD) is the first gold-standard dataset comprise
 
 
 Moreover, the review sentiment is balanced in each class. Following figure shows how the negative and positive reviews are balanced:
+
+
 ![alt text](Balanced dataset.jpg)
 
 For more information refer to the paper:
